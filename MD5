@@ -1,10 +1,10 @@
-280a5ae2309beb3399ce14b72ff9b285 *DESCRIPTION
+55396ccf94d946fe7bfea6b0a54ef4a6 *DESCRIPTION
 5b445eaef6d2b7c5d5bb76d50fd1ce3d *NAMESPACE
-1723440f2a554c20fb8db02f3e87ad01 *NEWS.md
+0bfe2c21c67608b7021098dccd163ef8 *NEWS.md
 772c20e1323cfd89c1682761f054fd71 *R/BayesianLaterality.R
 d4b47d4754541eb965a5d42616788580 *R/data.R
 45c715f07bc13d0689bb5fe195ed521e *R/predict_dominance.R
-1860445e4775f0df53467171f56d8437 *build/partial.rdb
+1b87273aeb1f9eee004c097798996cdd *build/partial.rdb
 7e50eb6c3f427c7e9f502ca93bf779ae *data/example_data1.rda
 73dd5c981a75f125d6f4ab76f1e7404f *data/example_data2.rda
 b3f231f515a64bc02bb3ade67bcc9b7a *inst/CITATION
