@@ -1,16 +1,15 @@
-citHeader("To cite BayesianLaterality in publications use:")
 
-citEntry(
-  entry    = "article",
+
+bibentry(
+  bibtype    = "Article",
+  textVersion = "Øystein Sørensen & René Westerhausen (2020) From observed laterality to latent hemispheric differences: Revisiting the inference problem, Laterality, DOI: 10.1080/1357650X.2020.1769124",
   title    = "From observed laterality to latent hemispheric differences: {R}evisiting the inference problem",
-  author   = c(person("S{\\o}rensen", "{\\O}ystein"),
-                    person("Westerhausen", "Ren{\\'e}")),
+  author   = c(person("{\\O}ystein", "S{\\o}rensen"),
+                    person("Ren{\\'e}", "Westerhausen")),
   journal = "Laterality",
   volume = "25",
   number = "5",
   pages = "560-582",
   year     = 2020,
-  doi = "10.1080/1357650X.2020.1769124",
-  url="https://doi.org/10.1080/1357650X.2020.1769124",
-  textVersion = "Øystein Sørensen & René Westerhausen (2020) From observed laterality to latent hemispheric differences: Revisiting the inference problem, Laterality, DOI: 10.1080/1357650X.2020.1769124"
+  doi = "10.1080/1357650X.2020.1769124"
 )
